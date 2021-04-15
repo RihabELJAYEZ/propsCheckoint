@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  background-image: url("https://www.hyperledger.org/wp-content/uploads/2018/05/HL_ImageLibrary_Backgrounds_Purple48.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 1349px;
+  height: 900px;
 }
 
 .App-logo {
